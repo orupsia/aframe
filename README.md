@@ -1,6 +1,2 @@
-# I did not make this code
-I simply edited it and looked over it until I understood it! 
-
-# Super cool though
-Got it from [A-Frame](https://aframe.io/examples/showcase/responsiveui/) 
-Made by [this guy] (https://github.com/aframevr/aframe/commits?author=dmarcos) 
+# how to make image not blurry 
+<sub> halp <sub>
